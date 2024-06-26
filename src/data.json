@@ -1,0 +1,651 @@
+{
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "countryImage": "./Image/Flag/flag-uk.svg",
+        "cities": [
+          {
+            "name": "London",
+            "maincity":"Victoriya",
+            "Showplace":"14",
+            "cityimage": "./Image/city/Uk/London_2.avif",
+            "hostels": [
+              {
+                "hostelname": "Peckham, London",
+                "streetroad": "Old Kent Rd, London",
+                "cityCenter": "3.6 mi",
+                "walk": "1h23m",
+                "bus": "40m",
+                "train": "26m",
+                "budget": "£215/Week",
+                "offer": "4",
+                "option": 5,
+                "booking":"Instant Booking",
+                "bedroom":"/Image/Home/London/bedroom1.avif",
+                "kitchen":"/Image/Home/London/kitchen1.avif",
+                "exterior":"/Image/Home/London/Exterior1.avif",
+                "comman":"/Image/Home/London/Comman1.avif",
+                "bathroom":"/Image/Home/London/bathroom1.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "10 weeks",
+                    "Move In": "20 Jul 2024"
+                  },
+                  {
+                    "Duration": "9 weeks",
+                    "Move In": "27 Jul 2024"
+                  },
+                  {
+                    "Duration": "8 weeks",
+                    "Move In": "4 Aug 2024"
+                  },
+                  {
+                    "Duration": "51 weeks",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "wifi": "Wifi"
+                  },
+                  {
+                    "Utility": "Utility Bills"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Dedicated": "Dedicated 24/7 Team"},
+                  {"Gym": "Onsite Gym"},
+                  {"Private": "Private Dining Room"},
+                  {"Karok": "Karaoke Room"},
+                  {"Cinema": "Cinema Room"}
+                ]
+              },
+              {
+                "hostelname": "Chapter Lewisham, London",
+                "streetroad": "Thurston Rd, London",
+                "cityCenter": "6.2 mi",
+                "walk": "2h30m",
+                "bus": "32m",
+                "train": "30m",
+                "budget": "£359/Week",
+                "offer": "3",
+                "booking":"Instant Booking",
+                "option": 1,
+                "bedroom":"/Image/Home/London/bedroom2.avif",
+                "kitchen":"/Image/Home/London/kitchen2.avif",
+                "exterior":"/Image/Home/London/Exterior2.avif",
+                "comman":"/Image/Home/London/Comman2.avif",
+                "bathroom":"/Image/Home/London/bathroom2.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              },{
+                "hostelname": "iQ Highbury, London",
+                "streetroad": "Isledon Rd, London",
+                "cityCenter": "4.6 mi",
+                "walk": "1h33m",
+                "bus": "35m",
+                "train": "20m",
+                "budget": "£337/Week",
+                "offer": "1",
+                "booking":"Instant Booking",
+                "option": 3,
+                "bedroom":"/Image/Home/London/bedroom3.avif",
+                "kitchen":"/Image/Home/London/kitchen3.avif",
+                "exterior":"/Image/Home/London/Exterior3.avif",
+                "comman":"/Image/Home/London/Comman3.avif",
+                "bathroom":"/Image/Home/London/bathroom3.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              },
+              {
+                "hostelname": "Chapter Lewisham, London",
+                "streetroad": "Thurston Rd, London",
+                "cityCenter": "6.2 mi",
+                "walk": "2h30m",
+                "bus": "32m",
+                "train": "30m",
+                "budget": "£359/Week",
+                "offer": "3",
+                "option": 1,
+                "bedroom":"/Image/Home/London/bedroom4.avif",
+                "kitchen":"/Image/Home/London/kitchen4.avif",
+                "exterior":"/Image/Home/London/Exterior4.avif",
+                "comman":"/Image/Home/London/Comman4.avif",
+                "bathroom":"/Image/Home/London/bathroom4.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              },
+              {
+                "hostelname": "Britannia South Bank, London",
+                "streetroad": "Rushworth St, London",
+                "cityCenter": "1.2 mi",
+                "walk": "30m",
+                "bus": "21m",
+                "train": "13m",
+                "budget": "£279/Week",
+                "offer": "2",
+                "option": 2,
+                "bedroom":"/Image/Home/London/bedroom5.avif",
+                "kitchen":"/Image/Home/London/kitchen5.avif",
+                "exterior":"/Image/Home/London/Exterior5.avif",
+                "comman":"/Image/Home/London/Comman5.avif",
+                "bathroom":"/Image/Home/London/bathroom5.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              },
+              {
+                "hostelname": "Pavilion Court, London",
+                "streetroad": "First Way, Wembley",
+                "cityCenter": "8.7 mi",
+                "walk": "2h54m",
+                "bus": "43m",
+                "train": "36m",
+                "budget": "£279/Week",
+                "offer": "2",
+                "option": 8,
+                "bedroom":"/Image/Home/London/bedroom6.avif",
+                "kitchen":"/Image/Home/London/kitchen6.avif",
+                "exterior":"/Image/Home/London/Exterior6.avif",
+                "comman":"/Image/Home/London/Comman6.avif",
+                "bathroom":"/Image/Home/London/bathroom6.webp",
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Birmingham",
+            "cityimage": "./Image/city/Uk/Birmingham_2.avif",
+            "hostels": [
+              {
+                "hostelname": "Peckham, London",
+                "streetroad": "Old Kent Rd, London",
+                "cityCenter": "3.6 mi",
+                "walk": "1h23m",
+                "bus": "40m",
+                "train": "26m",
+                "budget": "£215/Week",
+                "offer": "4",
+                "option": 5,
+                "Tenancies": [
+                  {
+                    "Duration": "10 weeks",
+                    "Move In": "20 Jul 2024"
+                  },
+                  {
+                    "Duration": "9 weeks",
+                    "Move In": "27 Jul 2024"
+                  },
+                  {
+                    "Duration": "8 weeks",
+                    "Move In": "4 Aug 2024"
+                  },
+                  {
+                    "Duration": "51 weeks",
+                    "Move In": "20 Sep 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "wifi": "Wifi"
+                  },
+                  {
+                    "Utility": "Utility Bills"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Dedicated": "Dedicated 24/7 Team"},
+                  {"Gym": "Onsite Gym"},
+                  {"Private": "Private Dining Room"},
+                  {"Karok": "Karaoke Room"},
+                  {"Cinema": "Cinema Room"}
+                ]
+              },
+              {
+                "hostelname": "Canvas Walthamstow, London",
+                "streetroad": "Forest Rd, London",
+                "cityCenter": "7.9 mi",
+                "walk": "2h57m",
+                "bus": "37m",
+                "train": "29m",
+                "budget": "£359/Week",
+                "offer": "3",
+                "option": 10,
+                "Tenancies": [
+                  {
+                    "Duration": "44 week",
+                    "Move In": "20 Jul 2024"
+                  }
+                ],
+                "Rent": [
+                  {
+                    "gas": "Gas"
+                  },
+                  {
+                    "electricity": "Electricity"
+                  },
+                  {
+                    "heating": "Heating"
+                  }
+                ],
+                "Common Amenities": [
+                  {"Gym": "Onsite Gym"},
+                  {"study": "Study Spaces"},
+                  {"game": "Games Area"},
+                  {"laundry": "Onsite Laundry"},
+                  {"Bike": "Bike Storage"}
+                ]
+              }
+            ]
+        },
+        {
+            "name": "Nottingham",
+            "cityimage": "./Image/city/Uk/nottingham-1.avif"
+        },
+        {
+            "name": "Leicester",
+            "cityimage": "./Image/city/Uk/leicester.avif"
+        },
+        {
+            "name": "Liverpool",
+            "cityimage": "./Image/city/Uk/Liverpool_1.avif"
+        },
+        {
+            "name": "Coventry",
+            "cityimage": "./Image/city/Uk/coventry.avif"
+        },
+        {
+            "name": "Sheffield",
+            "cityimage": "./Image/city/Uk/Sheffield_1.avif"
+        },
+        {
+            "name": "Leeds",
+            "cityimage": "./Image/city/Uk/Leeds_1.avif"
+        },
+        {
+            "name": "Newcastle",
+            "cityimage": "./Image/city/Uk/Newcastle.avif"
+        },
+        {
+            "name": "Cardiff",
+            "cityimage": "./Image/city/Uk/CARDIFF_1.avif"
+        },
+        {
+            "name": "Swansea",
+            "cityimage": "./Image/city/Uk/swansea.avif"
+        },
+        {
+            "name": "Exeter",
+            "cityimage": "./Image/city/Uk/Exeter.avif"
+        },
+        {
+            "name": "Edinburgh",
+            "cityimage": "./Image/city/Uk/Edinburgh_1.avif"
+        },
+        {
+            "name": "Salford",
+            "cityimage": "./Image/city/Uk/Salford_1.avif"
+        },
+        {
+            "name": "Plymouth",
+            "cityimage": "./Image/city/Uk/Plymouth_2.avif"
+        },
+        {
+            "name": "Chester",
+            "cityimage": "./Image/city/Uk/Chester.avif"
+        },
+        {
+            "name": "Lincoln",
+            "cityimage": "./Image/city/Uk/Lincoln.avif"
+        }
+    ]
+},
+{
+    "country": "Australia",
+    "countryImage": "./Image/Flag/flag-aus.svg",
+    "cities": [
+        {
+            "name": "Melbourne",
+            "cityimage": "./Image/city/Aus/MELBOURNE_2.avif",
+            "hostels": [
+                {
+                    "hostelname": "Peckham, Melbourne",
+                    "streetroad": "Old Kent Rd, London",
+                    "cityCenter": "3.6 mi",
+                    "walk": "1h23m",
+                    "bus": "40m",
+                    "train": "26m",
+                    "budget": "£215/Week",
+                    "offer": "4",
+                    "option": 5,
+                    "Tenancies": [
+                        {
+                            "Duration": "10 weeks",
+                            "Move In": "20 Jul 2024"
+                        },
+                        {
+                            "Duration": "9 weeks",
+                            "Move In": "27 Jul 2024"
+                        },
+                        {
+                            "Duration": "8 weeks",
+                            "Move In": "4 Aug 2024"
+                        },
+                        {
+                            "Duration": "51 weeks",
+                            "Move In": "20 Sep 2024"
+                        }
+                    ],
+                    "Rent": [
+                        {
+                            "wifi": "Wifi"
+                        },
+                        {
+                            "Utility": "Utility Bills"
+                        }
+                    ],
+                    "Common Amenities": [
+                        {"Dedicated": "Dedicated 24/7 Team"},
+                        {"Gym": "Onsite Gym"},
+                        {"Private": "Private Dining Room"},
+                        {"Karok": "Karaoke Room"},
+                        {"Cinema": "Cinema Room"}
+                    ]
+                },
+                {
+                    "hostelname": "Chapter Lewisham, Melbourne",
+                    "streetroad": "Thurston Rd, London",
+                    "cityCenter": "6.2 mi",
+                    "walk": "2h30m",
+                    "bus": "32m",
+                    "train": "30m",
+                    "budget": "£359/Week",
+                    "offer": "3",
+                    "option": 1,
+                    "Tenancies": [
+                        {
+                            "Duration": "44 week",
+                            "Move In": "20 Sep 2024"
+                        }
+                    ],
+                    "Rent": [
+                        {
+                            "gas": "Gas"
+                        },
+                        {
+                            "electricity": "Electricity"
+                        },
+                        {
+                            "heating": "Heating"
+                        }
+                    ],
+                    "Common Amenities": [
+                        {"Gym": "Onsite Gym"},
+                        {"study": "Study Spaces"},
+                        {"game": "Games Area"},
+                        {"laundry": "Onsite Laundry"},
+                        {"Bike": "Bike Storage"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Brisbane",
+            "cityimage": "./Image/city/Aus/BRISBANE_1.avif"
+        },
+        {
+            "name": "Sydney",
+            "cityimage": "./Image/city/Aus/SYDNEY_2.avif"
+        },
+        {
+            "name": "Adelaide",
+            "cityimage": "./Image/city/Aus/ADELAIDE_1.avif"
+        },
+        {
+            "name": "Perth",
+            "cityimage": "./Image/city/Aus/PERTH_2.avif"
+        },
+        {
+            "name": "Canberra",
+            "cityimage": "./Image/city/Aus/Canberra.avif"
+        },
+        {
+            "name": "Gold Coast",
+            "cityimage": "./Image/city/Aus/GOLD COAST_1.avif"
+        },
+        {
+            "name": "Coffs Harbour",
+            "cityimage": "./Image/city/Aus/Coffs Harbour.avif"
+        }
+    ]
+},
+{
+    "country": "Ireland",
+    "countryImage": "./Image/Flag/flag-ire.svg",
+    "cities": [
+        {
+            "name": "Dublin",
+            "cityimage": "./Image/city/IRE/DUBLIN_2.avif"
+        },
+        {
+            "name": "Cork",
+            "cityimage": "./Image/city/IRE/Cork city.avif"
+        }
+    ]
+},
+{
+    "country": "United States",
+    "countryImage": "./Image/Flag/flag-us.svg",
+    "cities": [
+        {
+            "name": "New York",
+            "cityimage": "./Image/city/Usa/NewYork_1.avif"
+        },
+        {
+            "name": "Chicago",
+            "cityimage": "./Image/city/Usa/CHICAGO_2.avif"
+        },
+        {
+            "name": "Austin",
+            "cityimage": "./Image/city/Usa/AUSTIN_2.avif"
+        },
+        {
+            "name": "Houston",
+            "cityimage": "./Image/city/Usa/HUSTON_1.avif"
+        },
+        {
+            "name": "San Francisco",
+            "cityimage": "./Image/city/Usa/san francisco_1.avif"
+        },
+        {
+            "name": "Boston",
+            "cityimage": "./Image/city/Usa/BOSTON_2.avif"
+        },
+        {
+            "name": "Dallas",
+            "cityimage": "./Image/city/Usa/DALLAS_2.avif"
+        },
+        {
+            "name": "Washington DC",
+            "cityimage": "./Image/city/Usa/Washington DC_1.avif"
+        },
+        {
+            "name": "Philadelphia",
+            "cityimage": "./Image/city/Usa/Philadelphia_2.avif"
+        },
+        {
+            "name": "College Station",
+            "cityimage": "./Image/city/Usa/College Station.avif"
+        },
+        {
+            "name": "Los Angeles",
+            "cityimage": "./Image/city/Usa/Los Angeles_1.avif"
+        },
+        {
+            "name": "Lubbock",
+            "cityimage": "./Image/city/Usa/Lubbock_1.avif"
+        },
+        {
+            "name": "Miami",
+            "cityimage": "./Image/city/Usa/Miami_2.avif"
+        },
+        {
+            "name": "Minneapolis",
+            "cityimage": "./Image/city/Usa/Minneapolis_2.avif"
+        }
+    ]
+},
+{
+    "country": "Canada",
+    "countryImage": "./Image/Flag/flag-can.svg",
+    "cities": [
+        {
+            "name": "Toronto",
+            "cityimage": "./Image/city/Can/Toronto_3.avif"
+        },
+        {
+            "name": "Montreal",
+            "cityimage": "./Image/city/Can/Montreal_1.avif"
+        },
+        {
+            "name": "Vancouver",
+            "cityimage": "./Image/city/Can/Vancouver_2.avif"
+        }
+    ]
+},
+{
+    "country": "Germany",
+    "countryImage": "./Image/Flag/flag-ger.svg",
+    "cities": [
+        {
+            "name": "Frankfurt",
+            "cityimage": "./Image/city/Ger/FRANKFURT_1.avif"
+        },
+        {
+            "name": "Hamburg",
+            "cityimage": "./Image/city/Ger/HAMBURG_1.avif"
+        }
+    ]
+},
+{
+    "country": "Spain",
+    "countryImage": "./Image/Flag/flag-esp.svg",
+    "cities": [
+        {
+            "name": "Barcelona",
+            "cityimage": "./Image/city/Ger/Barcelona_2.avif"
+        }
+    ]
+}
+]     
+  }

@@ -1,0 +1,286 @@
+.no-list-style {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  li{
+    list-style-type: none;
+    padding-left: 0;
+  }
+  .country{
+    width: max-content;
+  }
+  .Popular h1{
+    font-size: 25px;
+  font-weight: 700;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .Popular p{
+    font-size: 18px;
+  font-weight: 400;
+  color: rgb(95, 94, 94);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .breadcrumb-item{
+    margin-left: 0;
+    width: max-content;
+  }
+  #nav-button {
+   border: 1px solid rgb(203, 203, 203);
+    background-color: transparent;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 10px 7px 10px;
+    border-radius: 7px;
+    width: max-content;
+  }
+  #nav-button.active {
+    background-color: transparent;
+    border: 1px solid black;
+    text-decoration: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  #nav-button img {
+    width: 20px;
+    height: auto;
+  }
+  #nav-button span{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .globel{
+    display: flex;
+    overflow-x: auto;
+    scroll-padding: 0 100%;
+    scroll-snap-type: x mandatory;
+    list-style-type: none;
+  }
+  .globel::-webkit-scrollbar {
+    display: none;
+  }
+  .city{
+    width: 10%;
+    cursor: pointer;
+  }
+  .city img{
+    width: 100%;
+    border-radius: 5px;
+  }
+  .carousel-image {
+    width: 100%;
+    height: auto;
+  }
+  .city {
+    flex: 0 0 16.66%; 
+    max-width: 16.66%;
+    position: relative;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  .city-button {
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-60%);
+    width: auto;
+    padding: 5px 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: max-content;
+  }
+  
+  .carousel-controls {
+    top: 0;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .carousel-controls .btn {
+    z-index: 1;
+  }
+  .city-prev{
+    margin-left: -30px;
+  }
+  .city-next{
+    margin-right: -10px;
+  }
+  .carousel-indicators button{
+    display: block;
+  }
+  
+  .breadcrumb-item a{
+  text-decoration: none;
+  color: #f06673;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .breadcrumb-item a:hover{
+  color: #f71a31;
+  }
+  .Accomodat-head h5{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .Accomodat-head h5 span{
+  font-size: 20px;
+  font-weight: 700;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .Accommodation-details h6{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .Accommodation-details h6 span{
+  font-size: 18px;
+  font-weight: 700;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .hostel-rev{
+    border: 1px solid rgb(203, 203, 203);
+  }
+  .hostel-next{
+    border: 1px solid rgb(203, 203, 203);
+  }
+  #hostel-btn{
+    border: 1px solid rgb(203, 203, 203);
+    font-weight: 700;
+  }
+  #hostel-btn.active{
+    background-color: rgb(243, 18, 60);
+    color: #fff;
+    border: 1px solid #fff;
+  }
+  .SaveUp h1{
+    font-size: 22px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 700;
+  }
+  .cart-btn{
+    top: 10px;
+    right: 63%;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .cart-icon{
+    font-size: 20px;
+    top: 7px;
+    left: 5px;
+  }
+  .accommodation-content h2{
+    font-size: 20px;
+    color: #000000;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .accommodation-content p{
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #696969;
+  }
+  .walk-icon{
+    font-size: 17px;
+  }
+  .walk-detail{
+    font-size: 12px;
+  }
+  .cart-card{
+    margin-top: 20px;
+    padding: 48px 18% 24px 18%;
+    width: 100%;
+  }
+  .cart-card h2{
+    font-size: 25px;
+    font-weight: 700;
+  }
+  .shortlist-page{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .shortlist-page h6{
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .Expoler{
+    width: max-content;
+    background-image: linear-gradient(45deg, rgb(229, 56, 99) 0%, rgb(255, 87, 121) 50%, rgb(229, 56, 99) 100%);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  @media screen and (max-width:1024px) {
+    .city-button{
+      transform: translateX(-50%);
+    }
+
+  }
+  @media screen and (max-width:768px) {
+    .city-button{
+      transform: translateX(-47%);
+      font-size: 10px;
+    }
+    .city-prev{
+      margin-left: -30px;
+    }
+    .googel{
+      display: none;
+    }
+    .cart-card h2{
+      font-size: 20px;
+    }
+    .shortlist-page h6{
+      font-size: 15px;
+    }
+    .Expoler{
+      font-size: 12px;
+    }
+    .Popular h1{
+      font-size: 20px;
+    }
+    .Popular p{
+      font-size: 14px;
+    }
+  }
+  @media screen and (max-width:428px) {
+    .city-button{
+      font-size: 5px;
+    }
+    .city-prev{
+      margin-left: -25px;
+    }.city-next{
+      margin-right: -25px;
+    }
+    .shortlist-page{
+      width: 100%;
+    }
+    .cart-card{
+      padding: 0;
+    }
+    .cityCarouse{
+      display: none;
+    }
+    .Popular h1{
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    .Popular p{
+      font-size: 10px;
+      margin-left: 20px;
+    }
+  }
+  
